@@ -1,0 +1,18 @@
+{
+  "name": "CryptoPunks Test #197",
+  "description": "When Cryptopunks finds themselves in a multiverse they can see what are the tests up to!",
+  "image": "ipfs://QmU7NkwP4niTGvErLujR42PP5N2KNugUdf1WC9VdLHegty/197.png",
+  "dna": "6c45a6fa139e6cffe1a4364d6e021e5da94cfaf4",
+  "edition": 197,
+  "date": 1640688089185,
+  "attributes": [
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Stamps",
+      "value": "124"
+    }
+  ]
+}
