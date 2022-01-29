@@ -2,17 +2,29 @@
   "name": "CryptoPunks Test #13",
   "description": "When Cryptopunks finds themselves in a multiverse they can see what are the tests up to!",
   "image": "ipfs://QmU7NkwP4niTGvErLujR42PP5N2KNugUdf1WC9VdLHegty/13.png",
-  "dna": "cb9287fb4b457aa5cb7c243acd632801fc026a9c",
+  "dna": "a181bfbcf112333925a782391cfa89022e37831f",
   "edition": 13,
-  "date": 1640688076990,
+  "date": 1640595474363,
   "attributes": [
     {
-      "trait_type": "Back",
-      "value": "None"
+      "trait_type": "Background",
+      "value": "Indigo"
     },
     {
-      "trait_type": "Stamps",
-      "value": "94"
+      "trait_type": "Character",
+      "value": "White"
+    },
+    {
+      "trait_type": "hat",
+      "value": "PinkCap"
+    },
+    {
+      "trait_type": "glares",
+      "value": "Black"
+    },
+    {
+      "trait_type": "smoke",
+      "value": "Cigarette"
     }
   ]
 }
